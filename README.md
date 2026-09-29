@@ -1,11 +1,15 @@
-Algoritmo Genético para la Selección de Perfiles IPE
+# Ejecución del programa
 
-Aplicación desarrollada en Python para seleccionar un perfil IPE de una viga metálica simplemente apoyada mediante un algoritmo genético.
+Descargar los seis archivos del repositorio y guardarlos en una misma carpeta:
 
-El programa considera la resistencia a flexión, la deflexión admisible y la minimización de la masa de la viga.
+- `main.py`
+- `interfaz.py`
+- `algoritmo_genetico.py`
+- `evaluacion.py`
+- `modelo_estructural.py`
+- `catalogo.py`
 
-Ejecución
+Se debe tener Python instalado en el computador. Una vez que los seis archivos estén en la misma carpeta, abrir una terminal en esa ubicación y ejecutar:
 
-Para ejecutar el programa:
 
 python main.py
